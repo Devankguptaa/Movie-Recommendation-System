@@ -98,9 +98,7 @@ http://localhost:8501
 
 | Home Page | Recommendations |
 |-----------|-----------------|
-| ![Home](https://via.placeholder.com/400x250?text=Home+Page) | ![Recommendations](https://via.placeholder.com/400x250?text=Recommendations+Page) |
-
-👉 Replace placeholders with actual screenshots from your Streamlit app.  
+| ![Home](Screenshots/HomePage.png) | ![Recommendations](Screenshots/Recommendations.png) |
 
 ---
 
