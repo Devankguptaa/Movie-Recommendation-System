@@ -49,8 +49,8 @@ It uses **content-based filtering with cosine similarity** on movie metadata and
 
 Clone the repo:  
 ```bash
-git clone https://github.com/Devankguptaa/binge-buddy.git
-cd binge-buddy
+git clone https://github.com/Devankguptaa/BingeBuddy-Movie-Recommendation-System.git
+cd BingeBuddy-Movie-Recommendation-System
 ```
 
 Create a virtual environment & install dependencies:  
